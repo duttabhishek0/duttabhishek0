@@ -21,3 +21,12 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duttabhishek0&" alt="duttabhishek0" /></p>
+
+## connect with me 
+<a href="https://linkedin.com/in/duttabhishek0" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/duttabhishek0" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" />
+  <br>
+
+## Actively answering question
+<a href="https://stackexchange.com/users/18716710/abhishek-dutt"><img src="https://stackexchange.com/users/flair/18716710.png" width="208" height="58" alt="profile for Abhishek Dutt on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abhishek Dutt on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+  <br><br>
+![](https://komarev.com/ghpvc/?username=duttabhishek0&style=plastic&label=Stalker+Alert) <br>
