@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/duttabhishek0?tab=repositories](https://github.com/duttabhishek0?tab=repositories)
 
-- 💬 Ask me about **Android , MVVM , Kotlin**
+- 💬 Ask me about **Android , MVVM, MVC, Kotlin**
 
 - 📫 How to reach me **duttabhishek0@gmail.com**
 
