@@ -1,16 +1,14 @@
-```kotlin
-val duttabhishek0 = developer {
-    about {
-        name = "Abhishek"
-        college = KIIT
-        role = Android Developer
-    }
-    tech("Kotlin", "C++", "Java", "C")
-    links {
-        twitter = "duttabhishek0"
-    }
-}
-```
+<p align='center'>
+	<h2>
+		“What I cannot create, I do not understand”
+	</h2>
+</p>
+<br>
+<p align='right'>
+	Richard Feynman
+</p>
+
+
 > [![Codechef](https://cp-logo.vercel.app/codechef/xenikh_32)](https://www.codechef.com/users/xenikh_32)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/xenikh_32)](https://codeforces.com/profile/xenikh_32)&nbsp;&nbsp;
 
 ## connect with me 
