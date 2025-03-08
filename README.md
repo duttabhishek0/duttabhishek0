@@ -1,1 +1,1 @@
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14291243)
+[![user:14291243's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/14291243?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
